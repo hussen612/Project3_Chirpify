@@ -68,8 +68,8 @@
             </section>
             <footer>
                 <ul>
-                    <li><a href="#">About</a></li>
-                    <li><a href="#">Developers</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="devs.html">Developers</a></li>
                     <li><a href="#">Settings</a></li>
                     <li>© 2024 - Chirpify</li>
                     <li style="color:#1DA1F2;"><b>- Developed by Hussen Janabe and Shayvensley Eli -</b></li>
