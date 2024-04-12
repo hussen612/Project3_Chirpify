@@ -72,7 +72,7 @@
                     <li><a href="#">Developers</a></li>
                     <li><a href="#">Settings</a></li>
                     <li>© 2024 - Chirpify</li>
-                    <li style="color:#1DA1F2;"><b>- Developed By Hussen Janabe and Shayvensley Eli -</b></li>
+                    <li style="color:#1DA1F2;"><b>- Developed by Hussen Janabe and Shayvensley Eli -</b></li>
                 </ul>
             </footer>
         </main>
