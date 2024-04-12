@@ -67,8 +67,8 @@
         <h4 style="font-weight: 600; " >You've Signed up Successfully!</h4>
  
         </div>
-        <p>This is Twitter clone is developed by <span style="font-weight: 700;">Amin Yasser</span>  for learning purpose.</p>
-        <p>The clone project includes tweet , retweet , quote or even quote the quoted tweet , like tweet and nested comments.
+        <p>This is Chirpify is developed by <span style="font-weight: 700;">Hussen Janabe and Shayvensley Eli</span> for education.</p>
+        <p>The project includes tweet , retweet , quote or even quote the quoted tweet , like tweet and nested comments.
           You can mention or add hashtag to yout tweet , change password or username.
           Follow or unfollow people. get notificaction if any action happen. Search users by name or username. and more!
         </p>
